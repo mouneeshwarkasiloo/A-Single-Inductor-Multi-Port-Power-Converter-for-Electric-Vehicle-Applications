@@ -1,0 +1,3 @@
+* Designed an automated water pump system with EEPROM memory and ultrasonic sensing. Energy-saving
+* logic: activates pump below 95%, stops above 99%.
+* Tools Used: Arduino Uno, Ultrasonic Sensor, EEPROM, Tinkercad, Wokwi, Arduino IDE.
