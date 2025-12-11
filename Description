@@ -1,3 +1,9 @@
-* Designed an automated water pump system with EEPROM memory and ultrasonic sensing. Energy-saving
-* logic: activates pump below 95%, stops above 99%.
-* Tools Used: Arduino Uno, Ultrasonic Sensor, EEPROM, Tinkercad, Wokwi, Arduino IDE.
+•	Developed a Single Inductor Multi-Port DC-DC Converter integrating solar PV and battery sources for efficient electric vehicle (EV) power management.
+
+•	Designed to deliver dual regulated outputs for motor drive and auxiliary loads, enhancing power flexibility and energy utilization.
+
+•	Implemented and tested using MATLAB/Simulink, verifying stable operation, voltage regulation, and balanced current distribution.
+
+•	Adopted a compact single-inductor topology to minimize hardware components, reduce losses, and simplify control design.
+
+•	Demonstrated efficient hybrid energy conversion, supporting sustainable and cost-effective electric vehicle architectures.
